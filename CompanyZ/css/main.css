@@ -1,0 +1,103 @@
+
+#top
+{
+
+    background-color: lightgray;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+    padding-top: 4px;
+    text-align: center;
+    height: 40px;
+}
+h1
+{
+
+    margin: 0%;
+    padding: 0%
+}
+body
+{
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    align-self: center;
+    align-content: center;
+
+}
+#LogInForm
+{
+    display: flex;
+    flex-direction: row;
+
+}
+
+#newLine
+{
+    margin: 30px;
+}
+.line
+{
+    margin: 20px;
+}
+.line *
+{
+    margin: 10px;
+}
+#buttonForm
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0%;
+
+}
+
+form
+{
+    margin-left: 5%;
+}
+#formTop
+{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+
+
+}
+#formTop *
+{
+    margin: 10px;
+}
+.users
+{
+
+}
+
+button
+{
+    background-color:  #FFFFFF;
+    color: #00c7ff;
+
+    height: 30px;
+    width: auto;
+
+    box-shadow: none;
+    border: none;
+    font-size: 20px;
+    text-decoration: none;
+    margin-top: 40px;
+    border-radius: 17px;
+
+}
+button:hover
+{
+    color:  #FFFFFF;
+    background-color: #00c7ff;
+    border-radius: 17px;
+}
+
+th
+{
+    padding: 10px;
+}
