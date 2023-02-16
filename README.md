@@ -1,4 +1,5 @@
-# 4140A4
+# 2phaseCommit
+
 Author: Alexander Wilson
 
 --Description 
